@@ -1,0 +1,52 @@
+body{
+    height: 700px;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/assests/images/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+Section{
+    border-radius: 30px;
+    padding: 0px 0px 0px 100px;
+    background-color: lightblue;
+    width: 300px;
+    height: 50%;
+    border: 1px solid black;
+ 
+.frtNum{
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid ;
+}
+.Operator{
+    margin-left: 55px;
+    height: 25px;
+    width: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.secNum{
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid ;
+}
+.calculate{
+    height: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 40px;
+}
+.result{
+    height: 30px;
+    background-color: white;
+    width: 3pc;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 60px;
+}
+}
+}
